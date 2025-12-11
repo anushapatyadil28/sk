@@ -1,0 +1,49 @@
+.a{
+   color: aqua;   
+   background-color: gray;
+}
+#box1{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50cm;
+    border: 2px solid ;
+    padding: 5px;
+    margin:5px;
+    float:none;    
+    position:relative;
+    
+}
+#box2{
+    background-color:white;
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    border: 2px solid ;
+    padding: 5px;
+    float: left;
+    margin:5px;
+    position: fixed;
+}
+#box3{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    border: 2px solid ;
+    padding: 5px;
+    margin:5px;
+}
+#box4{
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    border-radius: 50cm;
+    border: 2px solid ;
+    padding: 5px;
+    margin:5px;
+    float:none;   
+} 
+    
+    
+    
